@@ -27,7 +27,7 @@ I’m passionate about building **modern, scalable, and interactive projects** u
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain.svg" alt="Debian" width="40" height="40"/>
-  <img src="<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xampp/xampp.svg" alt="XAMPP" width="40" height="40"/>
+  <img src="https://tr.m.wikipedia.org/wiki/Dosya:Xampp_logo.svg" alt="XAMPP" width="40" height="40"/>
 </p>
 
 ---
