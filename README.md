@@ -5,8 +5,7 @@ I’m passionate about building **modern, scalable, and interactive projects** u
 
 ---
 
-## 💻 Tech Stack
-
+## 💻 Backend & Databases
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
@@ -14,6 +13,10 @@ I’m passionate about building **modern, scalable, and interactive projects** u
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" alt="MariaDB" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" alt="Supabase" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="Apache" width="40" height="40"/>
+</p>
+
+## 🖥 Frontend & Tools
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40"/>
@@ -24,7 +27,6 @@ I’m passionate about building **modern, scalable, and interactive projects** u
 ---
 
 ## 🌟 GitHub Stats
-
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=NoramuAOL&show_icons=true&theme=radical" alt="Noramu's GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoramuAOL&layout=compact&theme=radical" alt="Top Languages"/>
@@ -32,21 +34,10 @@ I’m passionate about building **modern, scalable, and interactive projects** u
 
 ---
 
-## 🌱 Currently Learning
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Advanced TypeScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" alt="Supabase Cloud" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Game Servers - Python" width="40" height="40"/>
-</p>
-
----
-
 ## 📫 Connect with Me
-
 <p align="left">
   <a href="https://github.com/NoramuAOL" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/></a>
-  <a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" alt="Discord" width="40" height="40"/></a>
+  <a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/discord.svg" alt="Discord" width="40" height="40"/></a>
   <a href="mailto:noramucom@gmail.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" alt="Email" width="40" height="40"/></a>
 </p>
 
