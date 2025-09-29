@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Noramu
 
-Welcome to my GitHub! 🌐 I combine **technology, software, gaming, and more** under one roof.  
+Welcome to my GitHub! 🌐 At **Noramu**, we bring together **technology, software, gaming, and more** under one roof.  
 I’m passionate about building **modern, scalable, and interactive projects** using a wide range of technologies.  
 
 ---
@@ -23,19 +23,36 @@ I’m passionate about building **modern, scalable, and interactive projects** u
 
 ---
 
+## 🌟 GitHub Stats
+
+![Noramu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NoramuAOL&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NoramuAOL&layout=compact&theme=radical)
+
+---
+
+## 🔹 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| **Noramu Web** | Modern web portal for software & gaming | PHP, Next.js, Supabase |
+| **Discord Bot** | Interactive Discord bot with custom commands | Discord.js, Node.js |
+| **Game Tools** | Utilities & dashboards for gaming communities | Python, MySQL |
+
+---
+
 ## 🌱 Currently Learning
-- Advanced TypeScript patterns  
-- Cloud integration with Supabase  
-- Scalable game server solutions  
+![Advanced TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Supabase Cloud](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Game Servers](https://img.shields.io/badge/GameServers-Python-red?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
 ## 📫 Connect with Me
-[![GitHub](https://img.shields.io/badge/GitHub-NoramuAOL-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Noramu)  
-[![Discord](https://img.shields.io/badge/Discord-3mustafa5_-7289DA?style=for-the-badge&logo=discord&logoColor=white)](#)  
-[![Email](https://img.shields.io/badge/noramucom@ngmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)  
+[![GitHub](https://img.shields.io/badge/GitHub-NoramuAOL-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NoramuAOL)  
+[![Discord](https://img.shields.io/badge/Discord-3mustafa_-7289DA?style=for-the-badge&logo=discord&logoColor=white)](#)  
+[![Email](https://img.shields.io/badge/Email-noramucom@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)  
 
 ---
 
 ### ⚡ Fun Fact
-I believe in combining **creativity with code** to make tools and applications that are not only functional but also enjoyable to use.  
+I love combining **creativity with code** to make projects that are not only functional but also enjoyable to use.  
