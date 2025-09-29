@@ -32,7 +32,7 @@ I’m passionate about building **modern, scalable, and interactive projects** u
 
 ## 📫 Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-NoramuAOL-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Noramu)  
-[![Discord](https://img.shields.io/badge/Discord-3mustafa5_%231234-7289DA?style=for-the-badge&logo=discord&logoColor=white)](#)  
+[![Discord](https://img.shields.io/badge/Discord-3mustafa5_-7289DA?style=for-the-badge&logo=discord&logoColor=white)](#)  
 [![Email](https://img.shields.io/badge/noramucom@ngmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)  
 
 ---
