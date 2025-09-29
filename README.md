@@ -36,9 +36,15 @@ I’m passionate about building **modern, scalable, and interactive projects** u
 
 ## 📫 Connect with Me
 <p align="left">
-  <a href="https://github.com/NoramuAOL" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/></a>
-  <a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/discord.svg" alt="Discord" width="40" height="40"/></a>
-  <a href="mailto:noramucom@gmail.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" alt="Email" width="40" height="40"/></a>
+  <a href="https://github.com/NoramuAOL" target="_blank" title="GitHub">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  </a>
+  <a href="#" target="_blank" title="Discord">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" alt="Discord" width="40" height="40"/>
+  </a>
+  <a href="mailto:noramucom@gmail.com" target="_blank" title="Email">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="40" height="40"/>
+  </a>
 </p>
 
 ---
