@@ -8,18 +8,18 @@ I’m passionate about building **modern, scalable, and interactive projects** u
 ## 💻 Tech Stack
 
 ### Backend & Databases
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-CA0000?style=for-the-badge&logo=apache&logoColor=white)
-![HeidiSQL](https://img.shields.io/badge/HeidiSQL-009393?style=for-the-badge&logo=heidisql&logoColor=white)
+[![PHP](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg)](https://www.php.net/) 
+[![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)](https://www.python.org/) 
+[![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg)](https://www.mysql.com/) 
+[![Supabase](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg)](https://supabase.com/) 
+[![Apache](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg)](https://httpd.apache.org/) 
+[![HeidiSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heidisql/heidisql-original.svg)](https://www.heidisql.com/)
 
 ### Frontend & Tools
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Discord.js](https://img.shields.io/badge/Discord.js-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+[![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)](https://www.javascript.com/) 
+[![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg)](https://www.typescriptlang.org/) 
+[![Next.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg)](https://nextjs.org/) 
+[![Discord.js](https://raw.githubusercontent.com/discordjs/discord.js/main/media/logo.svg)](https://discord.js.org/)
 
 ---
 
@@ -30,20 +30,10 @@ I’m passionate about building **modern, scalable, and interactive projects** u
 
 ---
 
-## 🔹 Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| **Noramu Web** | Modern web portal for software & gaming | PHP, Next.js, Supabase |
-| **Discord Bot** | Interactive Discord bot with custom commands | Discord.js, Node.js |
-| **Game Tools** | Utilities & dashboards for gaming communities | Python, MySQL |
-
----
-
 ## 🌱 Currently Learning
-![Advanced TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Supabase Cloud](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Game Servers](https://img.shields.io/badge/GameServers-Python-red?style=for-the-badge&logo=python&logoColor=white)
+[![Advanced TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg)](https://www.typescriptlang.org/)  
+[![Supabase Cloud](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg)](https://supabase.com/)  
+[![Game Servers - Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)](https://www.python.org/)
 
 ---
 
